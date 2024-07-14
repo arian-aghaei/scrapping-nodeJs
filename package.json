@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "watch": "node --watch main.js"
+    "watch": "node --watch scrapMore.js"
   },
   "keywords": [],
   "author": "",
